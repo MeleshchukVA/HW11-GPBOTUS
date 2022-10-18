@@ -22,6 +22,7 @@
 		3F8EE63828FF71E0001C8D3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F8EE63B28FF71E0001C8D3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F8EE63D28FF71E0001C8D3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F8EE64528FF7421001C8D3A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		3F8EE62328FF71DC001C8D3A = {
 			isa = PBXGroup;
 			children = (
+				3F8EE64528FF7421001C8D3A /* README.md */,
 				3F8EE62E28FF71DC001C8D3A /* MeleshchukVA-HW11 */,
 				3F8EE62D28FF71DC001C8D3A /* Products */,
 			);
